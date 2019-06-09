@@ -24,6 +24,7 @@ social:
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-hacker
 
 exclude:
   - "Gemfile"
