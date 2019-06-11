@@ -1,33 +1,29 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
   - item: SQL
-  - item: R
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+technologies:
+  - item: Automation 
+  - item: Digital Signage
 
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+Operating-System:
+  - item: Embedded Linux 
+  - item: Windows
+  - item: Flavors of Linux:- Ubuntu, Fedora, and CentOs
+
+Continuous-Integration-Tool:
+  - item: Jenkins 
+
+Version-Control:
+  - item: Github 
+
+
+Protocols-used :
+  - item: SNMP 
+  - item: FTP
+  - item: HTTP
+  - item: TCP/IP
+
+Hardware-used:
+  - item: Raspberry pi 
