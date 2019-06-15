@@ -1,13 +1,12 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Koshti Nikhilesh
+title: Koshti Nikhilesh | Front End Software Engineer
+description: Python Developer by passion
+url: https://koshtinikhilesh.github.io/
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: koshtinikhilesh1993@gmail.com
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
     url: mailto:koshtinikhilesh1993@gmail.com
