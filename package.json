@@ -1,5 +1,5 @@
 {
-  "name": "brittanychiang.com",
+  "name": "Koshti Nikhilesh",
   "version": "0.0.0",
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "main": "gulpfile.js",
@@ -7,7 +7,7 @@
     "start": "gulp serve",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Koshti Nikhilesh",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",

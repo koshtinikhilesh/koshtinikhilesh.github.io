@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Koshti Nikhilesh
+title: Koshti Nikhilesh | Front End Software Engineer
+description: Python Developer by passion
+url: https://koshtinikhilesh.github.io/
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: koshtinikhilesh1993@gmail.com
 cover: https://brittanychiang.com/img/og.png
 logo: https://brittanychiang.com/img/emojis/technologist.png
 resume: https://brittanychiang.com/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:koshtinikhilesh1993@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/nikhilesh_kosht
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://www.instagram.com/nikhilesh_koshti/
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/koshtinikhilesh
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/nikhilesh-koshti-20a8a4a3/
 
 # Build settings
 markdown: kramdown
