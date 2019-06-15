@@ -12,7 +12,7 @@ Operating-System:
   - item: Windows
   - item: Flavors of Linux:- Ubuntu, Fedora, and CentOs
 
-Continuous-Integration-Tool:
+Tool:
   - item: Jenkins 
 
 Version-Control:
