@@ -18,6 +18,8 @@ social:
     url: https://github.com/koshtinikhilesh
   - title: linkedin
     url: https://www.linkedin.com/in/nikhilesh-koshti-20a8a4a3/
+  - title: Stackoverflow
+    url: https://stackoverflow.com/users/8287997/nikhilesh-koshti
 
 # Build settings
 markdown: kramdown
