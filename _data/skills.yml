@@ -1,25 +1,28 @@
-Languages and Technologies used:
-  - item: Python
-  - item: SQL
+Technologies:
   - item: Automation 
   - item: Digital Signage
 
-Automation Tools:
+Protocols-used :
+  - item: SNMP 
+  - item: FTP
+  - item: HTTP
+  - item: TCP/IP
+
+Languages:
+  - item: Python
+  - item: SQL
+
+Frameworks:
+  - item: Robot Framework
   - item: Pytest
-  - item: Robot-Framework
   - item: Unit-test
 
-Operating-System:
-  - item: Embedded Linux 
-  - item: Windows
+Tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Jenkins
 
-Tool:
-  - item: Jenkins 
-
-Version-Control:
-  - item: Github 
-
-Protocols-used :
+Protocols:
   - item: SNMP 
   - item: FTP
   - item: HTTP
