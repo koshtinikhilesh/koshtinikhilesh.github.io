@@ -1,16 +1,17 @@
-languages:
+Languages and Technologies used:
   - item: Python
   - item: SQL
-
-technologies:
   - item: Automation 
   - item: Digital Signage
 
+Automation Tools:
+  - item: Pytest
+  - item: Robot-Framework
+  - item: Unit-test
 
 Operating-System:
   - item: Embedded Linux 
   - item: Windows
-  - item: Flavors of Linux:- Ubuntu, Fedora, and CentOs
 
 Tool:
   - item: Jenkins 
@@ -18,12 +19,9 @@ Tool:
 Version-Control:
   - item: Github 
 
-
 Protocols-used :
   - item: SNMP 
   - item: FTP
   - item: HTTP
   - item: TCP/IP
 
-Hardware-used:
-  - item: Raspberry pi 
