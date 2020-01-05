@@ -2,12 +2,6 @@ Technologies:
   - item: Automation 
   - item: Digital Signage
 
-Protocols-used :
-  - item: SNMP 
-  - item: FTP
-  - item: HTTP
-  - item: TCP/IP
-
 Languages:
   - item: Python
   - item: SQL
