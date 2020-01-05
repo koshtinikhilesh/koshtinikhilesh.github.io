@@ -1,10 +1,9 @@
-# v3
+# Portfolio website
 
-Third iteration of my personal website built with Jekyll.
+Link:- https://koshtinikhilesh.github.io/
+This is the website which contains the professional details including the designation, projects completed or have been working on and many more.
 
-> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
->
-> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
+
 
 ## Dependencies
 
@@ -15,3 +14,7 @@ Third iteration of my personal website built with Jekyll.
 1.  `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
 2.  `npm install`
 3.  `npm start`
+
+## Inspiration
+
+1.  Inspired from the best website which was designed by user:- `https://github.com/bchiang7/bchiang7.github.io`
