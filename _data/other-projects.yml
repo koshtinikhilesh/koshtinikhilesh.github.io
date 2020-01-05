@@ -1,7 +1,5 @@
 - name: Digital Media Systems
-  description: Digital media systems covers the digital media players as well as digital media managers. Digital
-media players are used to play video contents, audio contents, slide shares, etc. This media players
-can be worked as stand-alone entity or in conjunction with media managers.
+  description: Digital media systems covers the digital media players as well as digital media managers. Digital media players are used to play video contents, audio contents, slide shares, etc. This media players can be worked as stand-alone entity or in conjunction with media managers.
   used:
     - thing: Python
     - thing: Paramiko
@@ -10,9 +8,7 @@ can be worked as stand-alone entity or in conjunction with media managers.
     - thing: Linux
 
 - name: Industrial Grade Networking Systems
-  description: Industrial grade networking systems includes the devices like routers and switches. It integrates all
-the essential components of a digital connected room experience with Ethernet LAN access,
-wireless LAN access, rich media, and application computing
+  description: Industrial grade networking systems includes the devices like routers and switches. It integrates all the essential components of a digital connected room experience with Ethernet LAN access, wireless LAN access, rich media, and application computing
   used:
     - thing: Python
     - thing: Sublime Text
@@ -22,9 +18,7 @@ wireless LAN access, rich media, and application computing
     - thing: CentOS-7
 
 - name: SoundTouch Music System
-  description: The Project “Shelby” devices enable unified access to digital media endpoints, both LAN and cloud-
-based, in addition to the stand-alone end-user access to the local music source. “SoundTouch” equals
-quick access to any music service or streaming media source..
+  description: The Project “Shelby” devices enable unified access to digital media endpoints, both LAN and cloud- based, in addition to the stand-alone end-user access to the local music source. “SoundTouch” equals quick access to any music service or streaming media source..
   used:
     - thing: Python
     - thing: Jira
