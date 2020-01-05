@@ -1,24 +1,21 @@
-Technologies:
-  - item: Automation 
-  - item: Digital Signage
-
-Languages:
+languages:
   - item: Python
   - item: SQL
 
-Frameworks:
+frameworks:
   - item: Robot Framework
   - item: Pytest
   - item: Unit-test
-
-Tools:
+  
+tools:
   - item: Bash
   - item: Git & Github
   - item: Jenkins
-
-Protocols:
-  - item: SNMP 
+  
+technologies:
+  - item: Automation
+  - item: Digital Signage
+  - item: SNMP
   - item: FTP
   - item: HTTP
   - item: TCP/IP
-
