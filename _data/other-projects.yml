@@ -1,3 +1,11 @@
+- name: Smart Smoke/CO Alarm
+  description: Device is alexa-enabled Smoke and Carbon Monoxide device. Also Intelligent 2-in-1 Smoke and Carbon Monoxide alarm sends alerts to mobile devices, and tells you the type and location of emergency in your home.
+  used:
+    - thing: Python
+    - thing: Robot Framework
+    - thing: AWS
+    - thing: Alexa
+
 - name: Digital Media Systems
   description: Digital media systems covers the digital media players as well as digital media managers. Digital media players are used to play video contents, audio contents, slide shares, etc. This media players can be worked as stand-alone entity or in conjunction with media managers.
   used:
@@ -11,8 +19,6 @@
   description: Industrial grade networking systems includes the devices like routers and switches. It integrates all the essential components of a digital connected room experience with Ethernet LAN access, wireless LAN access, rich media, and application computing
   used:
     - thing: Python
-    - thing: Sublime Text
-    - thing: Atom
     - thing: GIT
     - thing: Jenkins
     - thing: CentOS-7
