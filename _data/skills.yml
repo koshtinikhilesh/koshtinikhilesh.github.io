@@ -8,8 +8,7 @@ frameworks:
   - item: Unit-testing
 
 tools:
-  - item: Bash
-  - item: Git & Github
+  - item: Git
   - item: Jenkins
   
 technologies:
