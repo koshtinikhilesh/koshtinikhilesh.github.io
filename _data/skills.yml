@@ -13,7 +13,7 @@ tools:
   
 technologies:
   - item: Automation
-  - item: Digital Signage
-  - item: Chatbots
-  - item: Home Assistant Automation
+  - item: Amazon Web Services
+  - item: Data Engineering
+  - item: ETL Design
 
