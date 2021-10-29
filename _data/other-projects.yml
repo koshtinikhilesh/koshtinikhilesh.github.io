@@ -1,10 +1,17 @@
+- name:  Labs Data Warehouse - Big Data
+  description: Worked in the Labs Data Big Data Warehouse team where the main role is to manage the data pipelines of various customer Data-Feeds. Exposure to AWS services but not limited to Redshift, SQS, SNS, S3, Cloudformation, EC2, Kinesis. 
+  used:
+    - thing: Python
+    - thing: SQL
+    - thing: Amazon Web Services like Redshift, S3, SQS, SNS, Kinesis, and many more
+    - thing: ETL/Data Engineering
+
 - name: Smart Smoke/CO Alarm
   description: Device is alexa-enabled Smoke and Carbon Monoxide device. Also Intelligent 2-in-1 Smoke and Carbon Monoxide alarm sends alerts to mobile devices, and tells you the type and location of emergency in your home.
   used:
     - thing: Python
     - thing: Robot Framework
-    - thing: AWS
-    - thing: Alexa
+    - thing: Amazon Web Services
 
 - name: Digital Media Systems
   description: Digital media systems covers the digital media players as well as digital media managers. Digital media players are used to play video contents, audio contents, slide shares, etc. This media players can be worked as stand-alone entity or in conjunction with media managers.
